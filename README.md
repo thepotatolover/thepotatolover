@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/thepotatolover/thepotatolover/2024-06-07 22-22-43.mp4');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('[https://raw.githubusercontent.com/thepotatolover/thepotatolover/2024-06-07 22-22-43.mp4](https://imgs.search.brave.com/eYTo5TLM247l2mIAdWkqfOi070365sbA4Scq5izpHiA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ2/NzMxMDAxL3Bob3Rv/L3BvdGF0by5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9UzIw/T3RqV1gwMmo1bzRF/QjNvQzg5ZmpnR3cw/U254R2JKM0FUNm1M/dnVocz0)');]{x0000}$}
